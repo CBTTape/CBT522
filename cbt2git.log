@@ -1,0 +1,8 @@
+2023-08-06 05:01:34.627069 - Initialized conversion of CBT522
+2023-08-06 05:01:34.670991 - Received CBT.V505.FILE522.PDS from FILE522.XMI 
+2023-08-06 05:01:34.673164 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE522.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:01:34.674246 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE522.PDS, moved to PDS/$$NOTE
+2023-08-06 05:01:34.675236 - Found @FILE522.txt (text/plain) in CBT.V505.FILE522.PDS, moved to PDS/@FILE522
+2023-08-06 05:01:34.676266 - Found SMFWTMM1.txt (text/plain) in CBT.V505.FILE522.PDS, moved to PDS/SMFWTMM1
+2023-08-06 05:01:34.677186 - Found SMFWTM00.txt (text/plain) in CBT.V505.FILE522.PDS, moved to PDS/SMFWTM00
+2023-08-06 05:01:34.678107 - Found TESTJCL.txt (text/plain) in CBT.V505.FILE522.PDS, moved to PDS/TESTJCL
